@@ -1,14 +1,16 @@
 # SynergyNodes Profile
 
-------
+---
 Moniker: Synergy Nodes
+Validator: terravaloper1tm0xkark2ufecmdhgaaw7gqsycyt4qag6py8x6
 Email: contact@synergynodes.com
-Telegram: @SynergyNodes
+Telegram: @SynergyNodesTerra
 Discord: https://discord.gg/UEppF4sBdM
 Twitter: https://twitter.com/SynergyNodes
 Website: https://www.synergynodes.com
 Youtube: https://www.youtube.com/channel/UCFOFPbgP0wLTQ007NtNl_oQ
-------
+---
+
 
 We're operating highly secure, fast and stable validator nodes for many mainnet and testnet blockchains, which are managed by experienced professionals. We've been operating validator nodes since May 2019, and we've acquired valuable experience in these 3 years. Also, we contribute the following to the EcoSystem.
 
