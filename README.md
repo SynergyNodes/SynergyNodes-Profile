@@ -1,7 +1,5 @@
 # SynergyNodes Profile
 
-This is our Profile.
-
 - Moniker: Synergy Nodes
 - Email: contact@synergynodes.com
 - Telegram: @SynergyNodes
