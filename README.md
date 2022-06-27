@@ -1,4 +1,4 @@
-# SynergyNodes Profile
+# Synergy Nodes Profile
 
 - Moniker: Synergy Nodes
 - Email: contact@synergynodes.com
