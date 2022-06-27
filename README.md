@@ -2,9 +2,8 @@
 
 ---
 Moniker: Synergy Nodes
-Validator: terravaloper1tm0xkark2ufecmdhgaaw7gqsycyt4qag6py8x6
 Email: contact@synergynodes.com
-Telegram: @SynergyNodesTerra
+Telegram: @SynergyNodes
 Discord: https://discord.gg/UEppF4sBdM
 Twitter: https://twitter.com/SynergyNodes
 Website: https://www.synergynodes.com
