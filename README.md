@@ -33,7 +33,7 @@ We have setup the following security measures for all our Validator Nodes.
 4. Removed SSH login using root password.
 5. IP Lock - SSH login only allowed from 1 main IP, and allow temporary access to an other IP during travel.
 6. Dedicated powerful servers for all our nodes with NVMe SSD. Updated a few settings for best performance to the server. Regularly check for new updates for the OS and update them.
-7. Fully synced Backup server (even for Kujira Testnet) and we can switch to backup server within 5 mins if main sever is down.
+7. Fully synced Backup server and we can switch to backup server within 5 mins if main sever is down.
 8. PagerDuty alerts using Tenderduy with phone calls and email alerts which we have setup in an other independent server. This will notify us through phone call and email anytime if we miss 3 pre-commits.
 
 ## Contact Us
