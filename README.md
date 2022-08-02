@@ -11,11 +11,13 @@
 
 We're operating highly secure, fast and stable validator nodes for many mainnet and testnet blockchains, which are managed by experienced professionals. We've been operating validator nodes since May 2019, and we've acquired valuable experience in these 3 years. Also, we contribute the following to the EcoSystem.
 
-1. We post technical tutorials on our Youtube channel for the community.
+
+1. We have created a Crosschain Bridge app powered by Axelar where users can transfer many Assets from EVM chains such as Ethereum, Avalanche, Polygon, Fantom, etc to various Cosmos based chains such as Cosmos, Osmosis, Kujira, etc.
 2. We're operating a Cosmos blockchain explorer at cosmosrun.info for both mainnets and testnets. This is based on ping.pub. We must take ping.pub for this.
-3. We provide Snapshots on regular basis for both Mainnets and Testnets.
-4. We're in the process of starting IBC Relayers between many cosmos blockchains. We already are operating a IBC Relayer on testnets.
-5. We will provide more valuable services for the community as we expand our operations.
+3. We post technical tutorials on our Youtube channel for the community.
+4. We provide Snapshots on regular basis for both Mainnets and Testnets.
+5. We're operating IBC relayers at our own expense to support the Cosmos ecosystem using hermes. To name a few, we are operating IBC relayers between Kujira and Axelar, Kujira and Terra V2, Osmosis and Terra V2. We will keep adding more relayers.
+6. We will provide more valuable services for the community as we expand our operations.
 
 You can find all our links at - https://linktr.ee/synergynodes
 
